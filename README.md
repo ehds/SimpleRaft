@@ -27,6 +27,7 @@ requires:
 ## 使用
 
 分别打开Client和RaftNode文件夹start.bat即可
+然后打开http://127.0.0.1：5000/hello
 
 ## 结果展示
 前台：
