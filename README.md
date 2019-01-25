@@ -22,7 +22,7 @@ requires:
 ![](https://i.loli.net/2019/01/25/5c4ac59ed4916.png)
 
 ## 流程图
-![](https://i.loli.net/2019/01/25/5c4ac760c731a.png)
+![](https://i.loli.net/2019/01/25/5c4ac99154af2.png)
 
 ## 使用
 
